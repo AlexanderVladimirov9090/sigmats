@@ -6,5 +6,12 @@
 */
 {
   "files": [],
-  "references": []
+  "references": [
+    {
+      "path": "./projects/sigmats-lib/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/sigmats-lib/tsconfig.spec.json"
+    }
+]
 }
